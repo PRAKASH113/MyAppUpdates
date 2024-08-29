@@ -1,1 +1,2 @@
 1.1.0 "https://github.com/PRAKASH113/MyAppUpdates/releases/download/v1.1.0/MyApp_v1.1.0.zip"
+1.2.0 "https://github.com/PRAKASH113/MyAppUpdates/releases/download/v1.2.0/Release_1.2.0.zip"
